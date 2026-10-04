@@ -60,3 +60,7 @@ git -C ~/.claude/skills/cazz pull
 For the claude.ai and desktop apps, make a zip that contains the folder `cazz` with `SKILL.md`
 in it. Upload the zip in Settings > Customize > Skills. The options `--short`, `--full` and
 `--file` are for Claude Code; in the apps, say what you want in words.
+
+## Licence
+
+MIT. See `LICENSE`.
